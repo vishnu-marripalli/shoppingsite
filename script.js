@@ -1,5 +1,5 @@
 async function dispalycards() {
-let a= await fetch(`http://127.0.0.1:5500/cartitems.json`)
+let a= await fetch(`/cartitems.json`)
 let response=await a.json();
 
 console.log(response.items[0])
