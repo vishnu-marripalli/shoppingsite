@@ -1,0 +1,27 @@
+{
+   "items":["iphone","laptop",""],
+   
+   "iphone":{
+    "sno":1,
+    "title":"Iphone",
+    "imgsrc":"img/iphone1.webp",
+    "price":799,
+    "spec1":"128 GB ROM" ,
+    "spec2":"15.49 cm (6.1 inch) Super Retina XDR Display" ,
+    "spec3":"12MP + 12MP | 12MP Front Camera" ,
+    "spec4":"A15 Bionic Chip, 6 Core Processor Processor"
+   },
+   "laptop":{
+    "sno":2,
+    "title":"Inspiron 15 3000",
+    "imgsrc":"img/laptop1.webp",
+    "price":800,
+    "spec1":"15.6,FHD 1920x1080" ,
+    "spec2":"Intel® UHD Graphics" ,
+    "spec3":"13th Gen Intel® Core™ i3-1305U" ,
+    "spec4":"512 GB, M.2, PCIe NVMe, SSD" 
+    
+
+   }
+}
+

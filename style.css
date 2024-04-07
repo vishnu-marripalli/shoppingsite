@@ -1,0 +1,20 @@
+.cardimg{
+    width: 18rem;
+    height: 23rem;
+}
+
+
+
+
+
+
+
+
+
+
+@media(max-width:500px){
+    .cardimg{
+        width: 15rem;
+        height: 17rem;
+    }
+}
